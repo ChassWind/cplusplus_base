@@ -1,0 +1,3 @@
+/home/WeiyiCong/CLionProjects/testForCmake/bulid/CMakeFiles/test.dir
+/home/WeiyiCong/CLionProjects/testForCmake/bulid/CMakeFiles/edit_cache.dir
+/home/WeiyiCong/CLionProjects/testForCmake/bulid/CMakeFiles/rebuild_cache.dir

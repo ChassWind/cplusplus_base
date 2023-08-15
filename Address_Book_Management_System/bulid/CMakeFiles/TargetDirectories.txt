@@ -1,0 +1,3 @@
+/home/WeiyiCong/CLionProjects/Address_Book_Management_System/bulid/CMakeFiles/MyProject.dir
+/home/WeiyiCong/CLionProjects/Address_Book_Management_System/bulid/CMakeFiles/edit_cache.dir
+/home/WeiyiCong/CLionProjects/Address_Book_Management_System/bulid/CMakeFiles/rebuild_cache.dir
